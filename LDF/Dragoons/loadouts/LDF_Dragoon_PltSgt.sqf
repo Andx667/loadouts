@@ -41,7 +41,6 @@ for "_i" from 1 to 4 do {player addItemToUniform "ACE_tourniquet";};
 player addItemToUniform "ACE_Flashlight_XL50";
 player addItemToUniform "ACE_MapTools";
 player addItemToUniform "ACE_morphine";
-player addItemToUniform "30Rnd_65x39_caseless_msbs_mag";
 player addItemToUniform "11Rnd_45ACP_Mag";
 
 for "_i" from 1 to 3 do {player addItemToVest "30Rnd_65x39_caseless_msbs_mag";};

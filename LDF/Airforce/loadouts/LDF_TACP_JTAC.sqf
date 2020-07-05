@@ -70,4 +70,4 @@ player linkItem "ACE_Altimeter";
 player linkItem "TFAR_anprc152";
 player linkItem "ItemAndroid";
 
-[player, "MEDA"] call BIS_fnc_setUnitInsignia;
+[player, "USP_PATCH_ID_TACP"] call BIS_fnc_setUnitInsignia;
